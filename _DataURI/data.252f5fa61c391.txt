@@ -1,1 +1,0 @@
-chrome-extension://jfbnmfgkohlfclfnplnlenbalpppohkm/dist/pages/all.js
