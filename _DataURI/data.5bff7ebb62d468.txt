@@ -1,0 +1,1 @@
+chrome-extension://jfbnmfgkohlfclfnplnlenbalpppohkm/dist/pages/game-details.js
